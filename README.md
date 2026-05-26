@@ -41,11 +41,11 @@ Para abordar este problema, se implementó la técnica:
 - Las variables predictoras manifiestan una distrubución normal o uniforme(Antigüedad y Salario Estimado). 
 - No existen correlación lienal evidente entre las variables predictoras.
 
-> Nota: Los patrones observados en EDA representan asociaciones, no relaciones causales.
-
 ![Distribucion de las variables cat](img/evento_en_cat.png)
 
 ![Distribucion de las variables num](img/pairplot.png)
+
+> Nota: Los patrones observados en EDA representan asociaciones, no relaciones causales.
 
 ---
 
