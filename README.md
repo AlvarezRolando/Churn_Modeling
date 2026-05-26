@@ -47,6 +47,9 @@ Para abordar este problema, se implementó la técnica:
 
 > Nota: Los patrones observados en EDA representan asociaciones, no relaciones causales.
 
+Para mayor detalle en las distribuciones de cada variable, se obtuvieron los histogramas 
+![Histogramas](img/histogramas/)
+
 ---
 
 ## Modelado
