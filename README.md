@@ -47,8 +47,8 @@ Para abordar este problema, se implementó la técnica:
 
 > Nota: Los patrones observados en EDA representan asociaciones, no relaciones causales.
 
-Para mayor detalle en las distribuciones de cada variable, se obtuvieron los histogramas 
-![Histogramas](img/histogramas/)
+Para mayor detalle en las distribuciones de cada variable, se obtuvieron los histogramas correspondientes :
+[img/histogramas/](https://github.com/AlvarezRolando/Churn_Modeling/tree/70e49e6366120f6d5bdce087311e66f9204ea59d/img/histogramas)
 
 ---
 
