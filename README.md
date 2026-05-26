@@ -22,6 +22,8 @@ El dataset presenta un **desbalance significativo de clases** (aproximadamente 8
 Para abordar este problema, se implementó la técnica:
 - **SMOTE (Synthetic Minority Oversampling Technique)**, que genera ejemplos sintéticos de la clase minoritaria, mejorando la capacidad del modelo para detectar eventos poco frecuentes.
 
+![Distribucion de las variables num](img/Desbalance.png)   
+
 ---
 
 ## Tecnologías utilizadas 
